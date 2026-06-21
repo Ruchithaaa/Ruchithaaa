@@ -1,32 +1,41 @@
 <h1 align="center">Hi, I'm Ruchitha 👋</h1>
 
-<h3 align="center">Data Analyst · AI Engineer · Melbourne, Australia</h3>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0F6E56&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+AI+Engineer;Turning+messy+data+into+decisions;RAG+%2F+GenAI+%2F+ML+%2F+Power+BI;Melbourne%2C+Australia+%F0%9F%87%A6%F0%9F%87%BA;Open+to+Work+%E2%9C%85" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ruchitha-gundlapalli">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://ruchithaaa.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-0F6E56?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:ruchitha0914@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-%E2%9C%85%20Melbourne-brightgreen?style=for-the-badge" />
+<a href="https://linkedin.com/in/ruchitha-gundlapalli">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://ruchithaaa.github.io/portfolio">
+<img src="https://img.shields.io/badge/Portfolio-0F6E56?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:ruchitha0914@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Open%20to%20Work-%E2%9C%85%20Melbourne-brightgreen?style=for-the-badge" />
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Ruchithaaa&style=flat-square&color=0f6e56&label=Profile+Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/Ruchithaaa?style=flat-square&color=534AB7&label=Followers" />
 </p>
 
 ---
 
-## About me
+## 🧑‍💻 About me
 
 Data Analyst and AI Engineer with **3+ years** of experience at **Ernst & Young (Big-4)** and **Tata Consultancy Services**, building ML models, Power BI dashboards, and data pipelines for compliance and risk clients.
 
 Currently at **Centelon Solutions (Melbourne)** — applying Generative AI and RAG systems to operational workflows.
 
 🎓 **Master of Artificial Intelligence** · Monash University · 2025
+📍 Melbourne, VIC · 485 Post-Study Visa · Full work rights
 
 | 🏆 Achievement | 📊 Impact |
 |---|---|
@@ -34,9 +43,21 @@ Currently at **Centelon Solutions (Melbourne)** — applying Generative AI and R
 | Power BI reporting automation at EY | **40% reduction** in manual effort |
 | NutriNest — RAG AI health platform | Monash capstone · Gen AI + predictive modelling |
 
+```python
+class Ruchitha:
+    def __init__(self):
+        self.role = "Data Analyst & AI Engineer"
+        self.based_in = "Melbourne, Australia"
+        self.currently_exploring = ["Agentic AI", "RAG pipelines", "LLM tooling"]
+        self.coffee_level = "☕☕☕"
+
+    def say_hi(self):
+        return "Let's build something with data 🚀"
+```
+
 ---
 
-## Tech stack
+## 🛠️ Tech stack
 
 **AI & Machine Learning**
 
@@ -66,7 +87,7 @@ Currently at **Centelon Solutions (Melbourne)** — applying Generative AI and R
 
 ---
 
-## Featured projects
+## 🚀 Featured projects
 
 ### 🥗 NutriNest — AI Child Health Analytics Platform
 > Monash University Capstone · 2024–2025
@@ -77,8 +98,8 @@ End-to-end AI analytics platform for child health monitoring. Built a **RAG-base
 
 ---
 
-### 🛡️ [AML Fraud Detection System](https://github.com/Ruchithaaa)
-> Ernst & Young · 2022–2023
+### 🛡️ AML Fraud Detection System
+> Ernst & Young · 2022–2023 · Proprietary client project
 
 Gradient boosting and tree-based classifier suite for AML/fraud pattern detection. **25% improvement** in detection efficiency over prior rule-based systems.
 
@@ -113,15 +134,38 @@ Binary classification on the Kaggle Titanic dataset. Feature engineering, model 
 
 ---
 
-## GitHub stats
+## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ruchithaaa&show_icons=true&hide_border=true&count_private=true&title_color=0F6E56&icon_color=534AB7&text_color=1e293b&bg_color=ffffff" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchithaaa&layout=compact&hide_border=true&title_color=0F6E56&text_color=1e293b&bg_color=ffffff" width="36%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ruchithaaa&show_icons=true&hide_border=true&count_private=true&title_color=0F6E56&icon_color=534AB7&text_color=1e293b&bg_color=ffffff" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruchithaaa&layout=compact&hide_border=true&title_color=0F6E56&text_color=1e293b&bg_color=ffffff" width="36%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruchithaaa&hide_border=true&background=FFFFFF00&ring=0F6E56&fire=534AB7&currStreakLabel=0F6E56" width="60%" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ruchithaaa&theme=flat&no-frame=true&margin-w=8&row=1&column=6" />
 </p>
 
 ---
 
+## 🐍 Contribution snake
+
 <p align="center">
-  📍 Melbourne, VIC &nbsp;·&nbsp; 485 Post-Study Visa · Full work rights &nbsp;·&nbsp; Open to Data Analyst, AI/ML Engineer & Business Analyst roles
+<img src="https://raw.githubusercontent.com/Ruchithaaa/Ruchithaaa/output/github-contribution-grid-snake.svg" alt="Contribution snake animation" />
+</p>
+
+---
+
+## ⚡ Fun facts
+
+- 🧠 Trained more ML models than I've had cups of coffee (and that's saying something)
+- 🇦🇺 Relocated continents to chase an AI Master's — best plot twist of the decade
+- 🎯 Currently teaching machines to read receipts so I don't have to
+- 🌱 Always tinkering with a new agentic-AI side project
+
+<p align="center">
+📍 Melbourne, VIC &nbsp;·&nbsp; Open to Data Analyst, AI/ML Engineer & Business Analyst roles
 </p>
